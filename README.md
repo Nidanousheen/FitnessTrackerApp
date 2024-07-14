@@ -1,4 +1,5 @@
-# Fitness Tracker
+# Fitness Tracker Application
+
 
 ## Table of Contents
 1. [Overview](#Overview)
